@@ -1,9 +1,3 @@
-
-
-
-https://github.com/user-attachments/assets/75953754-ea4a-4589-bd95-1ba4a8a6e5fd
-
-
 # web-shop
 - Web-shop mini-project.
   
